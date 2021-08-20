@@ -1,2 +1,2 @@
-# image-number-counter
-Utilizing IBM Watson Visual Recognition to take images and sum up the numbers in images
+# Watson Text to Speech
+Utilizing IBM Watson Text to speech to output sound based on an input prompt 
